@@ -1,10 +1,8 @@
 # README
 
-This Neo4j-based example app displays movie and person data in a manner similar to IMDB.
-It is designed to serve as a template for further development projects.
+This Neo4j-based app displays movie and person data in a manner similar to IMDB.
 There are two versions of the backend - a Python/Flask backend at `/flask-api`, and a JavaScript/Express backend at `/api`. 
 The web frontend can be found at `/web`. 
-Feel encouraged to fork and update this repo!
 
 ## The Model
 
