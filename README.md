@@ -73,10 +73,6 @@ If you are using the Flask api then set it to `http://localhost:5000/api/v0`
 
 * `npm start` starts the app on [http://localhost:3000/](http://localhost:3000/)
 
-![image of PATH settings for NPM](./img/webUX.png)
-
-voilà! IMDB, eat your heart out ;-)
-
 ## Ratings and Recommendations
 
 ### User-Centric, User-Based Recommendations
